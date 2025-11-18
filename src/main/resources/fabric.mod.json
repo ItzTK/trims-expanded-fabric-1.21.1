@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/trims-expanded-fabric/icon.png",
+	"icon": "assets/trimsexpanded/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
