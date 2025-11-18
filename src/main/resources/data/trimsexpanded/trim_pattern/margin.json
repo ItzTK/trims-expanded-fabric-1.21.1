@@ -1,0 +1,7 @@
+{
+  "asset_id": "trimsexpanded:margin",
+  "description": {
+    "translate": "trim_pattern.trimsexpanded.margin"
+  },
+  "template_item": "trimsexpanded:margin_armor_trim_smithing_template"
+}

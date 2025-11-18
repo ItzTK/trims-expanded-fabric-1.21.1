@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "susTrim",
+  "key": {
+    "#": "minecraft:diamond",
+    "C": "minecraft:netherrack",
+    "I": "minecraft:suspicious_stew"
+  },
+  "pattern": [
+    "#I#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "id": "trimsexpanded:suspicious_armor_trim_smithing_template",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "armadillo",
+  "description": {
+    "color": "#C68884",
+    "translate": "trim_material.trimsexpanded.armadillo"
+  },
+  "ingredient": "minecraft:armadillo_scute",
+  "item_model_index": 0.894
+}

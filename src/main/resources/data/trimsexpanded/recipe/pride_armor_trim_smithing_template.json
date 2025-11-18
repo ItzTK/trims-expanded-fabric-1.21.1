@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "prideTrim",
+  "key": {
+    "#": "minecraft:diamond",
+    "C": "minecraft:gold_block",
+    "T": "trimsexpanded:pride_armor_trim_smithing_template"
+  },
+  "pattern": [
+    "#T#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "id": "trimsexpanded:pride_armor_trim_smithing_template",
+    "count": 2
+  }
+}

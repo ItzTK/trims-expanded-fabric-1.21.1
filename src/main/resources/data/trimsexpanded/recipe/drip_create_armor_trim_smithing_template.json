@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "dripTrim",
+  "key": {
+    "#": "minecraft:diamond",
+    "C": "minecraft:emerald_block",
+    "I": "minecraft:pointed_dripstone"
+  },
+  "pattern": [
+    "#I#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "id": "trimsexpanded:drip_armor_trim_smithing_template",
+    "count": 1
+  }
+}

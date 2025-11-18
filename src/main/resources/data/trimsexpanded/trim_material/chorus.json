@@ -1,0 +1,9 @@
+{
+  "asset_name": "chorus",
+  "description": {
+    "color": "#B58BB5",
+    "translate": "trim_material.trimsexpanded.chorus"
+  },
+  "ingredient": "minecraft:popped_chorus_fruit",
+  "item_model_index": 0.897
+}

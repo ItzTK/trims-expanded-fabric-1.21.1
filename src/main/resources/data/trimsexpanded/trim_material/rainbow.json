@@ -1,0 +1,9 @@
+{
+  "asset_name": "rainbow",
+  "description": {
+    "color": "#FFFFFF",
+    "translate": "trim_material.trimsexpanded.rainbow"
+  },
+  "ingredient": "minecraft:enchanted_golden_apple",
+  "item_model_index": 0.893
+}

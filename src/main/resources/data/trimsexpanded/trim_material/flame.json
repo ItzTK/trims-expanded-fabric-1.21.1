@@ -1,0 +1,9 @@
+{
+  "asset_name": "flame",
+  "description": {
+    "color": "#EA780E",
+    "translate": "trim_material.trimsexpanded.flame"
+  },
+  "ingredient": "minecraft:fire_charge",
+  "item_model_index": 0.891
+}

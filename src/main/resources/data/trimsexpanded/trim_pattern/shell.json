@@ -1,0 +1,7 @@
+{
+  "asset_id": "trimsexpanded:shell",
+  "description": {
+    "translate": "trim_pattern.trimsexpanded.shell"
+  },
+  "template_item": "trimsexpanded:shell_armor_trim_smithing_template"
+}

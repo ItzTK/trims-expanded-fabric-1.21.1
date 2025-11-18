@@ -1,0 +1,9 @@
+{
+  "asset_name": "dragon",
+  "description": {
+    "color": "#C54883",
+    "translate": "trim_material.trimsexpanded.dragon"
+  },
+  "ingredient": "minecraft:dragon_breath",
+  "item_model_index": 0.892
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "trimsexpanded:danger",
+  "description": {
+    "translate": "trim_pattern.trimsexpanded.danger"
+  },
+  "template_item": "trimsexpanded:danger_armor_trim_smithing_template"
+}

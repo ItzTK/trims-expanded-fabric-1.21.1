@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:diamond",
+    "C": "minecraft:mossy_cobblestone",
+    "T": "trimsexpanded:danger_armor_trim_smithing_template"
+  },
+  "pattern": [
+    "#T#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "id": "trimsexpanded:danger_armor_trim_smithing_template",
+    "count": 2
+  }
+}

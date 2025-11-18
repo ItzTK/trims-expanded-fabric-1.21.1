@@ -1,0 +1,7 @@
+{
+  "asset_id": "trimsexpanded:heart",
+  "description": {
+    "translate": "trim_pattern.trimsexpanded.heart"
+  },
+  "template_item": "trimsexpanded:heart_armor_trim_smithing_template"
+}

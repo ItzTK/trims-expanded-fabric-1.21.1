@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "trimsexpanded:margin_armor_trim_smithing_template"
+        }
+      }
+    },
+    "rewards": {
+      "function": "trimsexpanded:craft_margin_template",
+      "loot": [
+        "trimsexpanded:craft_margin_template"
+      ]
+    }
+  }
+  

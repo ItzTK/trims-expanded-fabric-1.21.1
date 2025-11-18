@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "trimsexpanded:danger_armor_trim_smithing_template",
+    "trimsexpanded:drip_armor_trim_smithing_template",
+    "trimsexpanded:heart_armor_trim_smithing_template",
+    "trimsexpanded:margin_armor_trim_smithing_template",
+    "trimsexpanded:plated_armor_trim_smithing_template",
+    "trimsexpanded:pride_armor_trim_smithing_template",
+    "trimsexpanded:shell_armor_trim_smithing_template",
+    "trimsexpanded:suspicious_armor_trim_smithing_template",
+    "trimsexpanded:verdant_armor_trim_smithing_template"
+  ]
+}

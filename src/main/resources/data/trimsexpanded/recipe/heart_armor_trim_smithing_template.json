@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:diamond",
+    "C": "minecraft:pink_concrete",
+    "T": "trimsexpanded:heart_armor_trim_smithing_template"
+  },
+  "pattern": [
+    "#T#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "id": "trimsexpanded:heart_armor_trim_smithing_template",
+    "count": 2
+  }
+}

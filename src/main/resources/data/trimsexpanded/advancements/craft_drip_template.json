@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "trimsexpanded:drip_armor_trim_smithing_template"
+        }
+      }
+    },
+    "rewards": {
+      "function": "trimsexpanded:craft_drip_template",
+      "loot": [
+        "trimsexpanded:drip_armor_trim_smithing_template"
+      ]
+    }
+  }
+  

@@ -1,0 +1,7 @@
+{
+  "asset_id": "trimsexpanded:verdant",
+  "description": {
+    "translate": "trim_pattern.trimsexpanded.verdant"
+  },
+  "template_item": "trimsexpanded:verdant_armor_trim_smithing_template"
+}

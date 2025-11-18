@@ -1,0 +1,9 @@
+{
+  "asset_name": "leather",
+  "description": {
+    "color": "#5B3A25",
+    "translate": "trim_material.trimsexpanded.leather"
+  },
+  "ingredient": "minecraft:leather",
+  "item_model_index": 0.85
+}

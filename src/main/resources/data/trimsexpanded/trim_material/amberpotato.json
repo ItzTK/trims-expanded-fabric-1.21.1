@@ -1,0 +1,9 @@
+{
+  "asset_name": "amberpotato",
+  "description": {
+    "color": "#E58904",
+    "translate": "trim_material.trimsexpanded.amberpotato"
+  },
+  "ingredient": "minecraft:poisonous_potato",
+  "item_model_index": 0.896
+}

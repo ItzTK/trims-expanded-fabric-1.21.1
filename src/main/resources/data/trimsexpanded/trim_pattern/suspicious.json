@@ -1,0 +1,7 @@
+{
+  "asset_id": "trimsexpanded:suspicious",
+  "description": {
+    "translate": "trim_pattern.trimsexpanded.suspicious"
+  },
+  "template_item": "trimsexpanded:suspicious_armor_trim_smithing_template"
+}

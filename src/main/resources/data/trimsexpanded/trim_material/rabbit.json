@@ -1,0 +1,9 @@
+{
+  "asset_name": "rabbit",
+  "description": {
+    "color": "#896D47",
+    "translate": "trim_material.trimsexpanded.rabbit"
+  },
+  "ingredient": "minecraft:rabbit_hide",
+  "item_model_index": 0.88
+}

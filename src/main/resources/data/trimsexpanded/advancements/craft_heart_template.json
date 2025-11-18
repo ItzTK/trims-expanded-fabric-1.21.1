@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "trimsexpanded:heart_armor_trim_smithing_template"
+        }
+      }
+    },
+    "rewards": {
+      "function": "trimsexpanded:craft_heart_template",
+      "loot": [
+        "trimsexpanded:craft_heart_template"
+      ]
+    }
+  }
+  

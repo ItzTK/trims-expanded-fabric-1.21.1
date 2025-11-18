@@ -1,4 +1,4 @@
-package com.itztk.mixin;
+package com.itztk.trimsexpanded.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
