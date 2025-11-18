@@ -3,9 +3,10 @@
 	"id": "mr_trims_expanded",
 	"version": "2.0",
 	"name": "Trims Expanded Fabric",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A fabric only fork of Trims Expanded",
 	"authors": [
-		"Me!"
+		"Omniv",
+		"ItzTK"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

@@ -1,0 +1,48 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "trims/items/leggings_trim",
+        "trims/items/chestplate_trim",
+        "trims/items/helmet_trim",
+        "trims/items/boots_trim",
+        "trims/items/elytra_trim",
+        "trims/items/elytra/default"
+      ],
+      "palette_key": "trims/color_palettes/trim_palette",
+      "permutations": {
+        "quartz": "trims/color_palettes/quartz",
+        "iron": "trims/color_palettes/iron",
+        "gold": "trims/color_palettes/gold",
+        "diamond": "trims/color_palettes/diamond",
+        "netherite": "trims/color_palettes/netherite",
+        "redstone": "trims/color_palettes/redstone",
+        "copper": "trims/color_palettes/copper",
+        "emerald": "trims/color_palettes/emerald",
+        "lapis": "trims/color_palettes/lapis",
+        "amethyst": "trims/color_palettes/amethyst",
+        "iron_darker": "trims/color_palettes/iron_darker",
+        "gold_darker": "trims/color_palettes/gold_darker",
+        "diamond_darker": "trims/color_palettes/diamond_darker",
+        "netherite_darker": "trims/color_palettes/netherite_darker",
+        "amberpotato": "trimsexpanded:trims/color_palettes/amberpotato",
+        "armadillo": "trimsexpanded:trims/color_palettes/armadillo",
+        "breeze": "trimsexpanded:trims/color_palettes/breeze",
+        "chorus": "trimsexpanded:trims/color_palettes/chorus",
+        "coal": "trimsexpanded:trims/color_palettes/coal",
+        "dragon": "trimsexpanded:trims/color_palettes/dragon",
+        "echo": "trimsexpanded:trims/color_palettes/echo",
+        "ender": "trimsexpanded:trims/color_palettes/ender",
+        "flame": "trimsexpanded:trims/color_palettes/flame",
+        "glowstone": "trimsexpanded:trims/color_palettes/glowstone",
+        "leather": "trimsexpanded:trims/color_palettes/leather",
+        "netherbrick": "trimsexpanded:trims/color_palettes/netherbrick",
+        "prismarine": "trimsexpanded:trims/color_palettes/prismarine",
+        "rabbit": "trimsexpanded:trims/color_palettes/rabbit",
+        "rainbow": "trimsexpanded:trims/color_palettes/rainbow",
+        "slime": "trimsexpanded:trims/color_palettes/slime"
+      }
+    }
+  ]
+}
