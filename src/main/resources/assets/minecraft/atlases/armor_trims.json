@@ -139,6 +139,7 @@
         "extratrims:trims/models/armor/crystal_leggings",
         "extratrims:trims/models/armor/dragon",
         "extratrims:trims/models/armor/dragon_leggings"
+
       ],
       "palette_key": "trims/color_palettes/trim_palette",
       "permutations": {
